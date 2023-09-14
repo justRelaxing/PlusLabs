@@ -1,0 +1,4 @@
+title:StrawberryBook
+binding:1
+edition:2
+quality:3

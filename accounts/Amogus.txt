@@ -1,0 +1,4 @@
+status:0
+name:Amogus
+password:Sus
+books:AppleBook,BlueberryBook,MangoBook,
